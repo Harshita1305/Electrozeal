@@ -1,0 +1,62 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+
+.logo{
+	width:100%;
+	height:300px;
+	background: #000;
+}
+
+.links{
+	width:80%;
+	height: auto;
+	margin:5% 8%;
+}
+.links p{
+	text-align: center;
+}
+.button-links{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.slides{
+	width:80%;
+	height:auto;
+	margin:5% 8%;
+}
+
+.comp-links{
+	width:100%;
+	height:auto;
+	margin:5% 0;
+	display: inline-flex;
+}
+
+#footer{
+	text-align: center;
+	margin:2% 15%;
+}
+.social-sites{
+	padding:15px 20px;
+}
+#footer p{
+	font-size:15px;
+
+}
+.twitter:hover{
+	color:#1DA1F2;
+}
+.facebook:hover{
+	color:#3b5998;
+}
+.instagram:hover{
+	color:#E1306C;
+}
+.discord:hover{
+	color:#738ADB;
+}
